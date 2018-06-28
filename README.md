@@ -2,11 +2,7 @@
 News Article Scraper
 
 # Installation Requirements:
-#pip install googletrans
- - googletrans
-#pip install bs4
- - bs4
-#pip install python-dateutil
- - python-dateutil
-#pip install pillow
- - pillow
+ - googletrans (pip install googletrans)
+ - bs4 (pip install bs4)
+ - python-dateutil (pip install python-dateutil)
+ - pillow (pip install pillow)
